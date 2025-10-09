@@ -55,15 +55,17 @@ void loop() {
 }
 ```
 ## CIRCUIT DIAGRAM:
-<img width="793" height="611" alt="image" src="https://github.com/user-attachments/assets/d15f1505-bbed-4914-94c4-dd83917d2bb1" />
+<img width="794" height="611" alt="image" src="https://github.com/user-attachments/assets/07dea36e-7527-4c74-990f-caea5faf797c" />
+
 
 
 ## OUTPUT:
 ### LED OFF
-<img width="2557" height="1599" alt="Screenshot 2025-10-09 200236" src="https://github.com/user-attachments/assets/15bd17fc-cfd3-4810-a2f3-2801e6787d52" />
+<img width="2559" height="1599" alt="Screenshot 2025-10-09 201104" src="https://github.com/user-attachments/assets/fcf138f9-c1f4-4574-9ded-40e9171a621b" />
+
 
 ### LED ON
-<img width="1725" height="1186" alt="488679614-266c2737-b43a-4e11-8693-d2bc7f21bc1e" src="https://github.com/user-attachments/assets/bf6fa8d6-cd46-4a24-b1ab-e849284b169a" />
+<img width="2559" height="1599" alt="Screenshot 2025-10-09 201118" src="https://github.com/user-attachments/assets/f69e837d-92af-48a9-8140-d7f8dd563442" />
 
 ## RESULT:
 
